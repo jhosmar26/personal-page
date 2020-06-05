@@ -10,8 +10,8 @@ body{
 
 .box__container{
     background-color: #f8f9fb;
-    max-width: 1200px;
-    width: 100%;
+    /* max-width: 1050px; */
+    /* width: 100%; */
     height: 90vh;
     border: 7px solid #Fff;
     border-radius: 70px;
@@ -114,6 +114,9 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    width: 343px;
+    display: flex;
+    align-items: flex-end;
 }
 
 .email--title{

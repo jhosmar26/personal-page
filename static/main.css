@@ -121,7 +121,8 @@ body{
 
 .email--title{
     color: #212D3F;
-    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
     font-size: 32px;
     margin-left: 5px;
     line-height: .8;
@@ -142,11 +143,14 @@ body{
     color: #EAEAF6;
     font-size: 16px;
     font-weight: bold;
+    text-decoration: none;
+    
 }
 
 .aditional-info .title{
+    font-family: 'Roboto', sans-serif;;
     font-size: 18px;
-    font-weight: bold;
+    font-weight: 500;
     margin-bottom: 30px;
 }
 

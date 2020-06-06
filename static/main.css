@@ -110,7 +110,7 @@ body{
 }
 
 .box__right{
-    height: 100%;
+    margin: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -124,6 +124,7 @@ body{
     font-weight: bold;
     font-size: 32px;
     margin-left: 5px;
+    line-height: .8;
 }
 .email button{
     height: 75px;
@@ -131,7 +132,7 @@ body{
     border-radius: 12px;
     border: none;
     background-color: #5A5AB5;
-    margin-bottom: 25px;
+    margin-bottom: 50px;
 }
 .email button:focus{
     outline: none;
@@ -146,25 +147,31 @@ body{
 .aditional-info .title{
     font-size: 18px;
     font-weight: bold;
-    line-height: 3;
+    margin-bottom: 30px;
 }
 
 .aditional-info__box{
     background-color: #F4F5F8;
+    background-color: rebeccapurple;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    align-items: center;
     width: 256px;
     height: 82px;
     border-radius: 15px;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
 }
 .aditional-info__box p{
     width: 170px;
     font-size: 14px;
     display: flex;
     align-items: center;
+    line-height: 1.5;
+    margin-top: 18px;
 }
 .aditional-info__box .img{
+    width: 60px;
     display: flex;
-    align-items: center;
+    justify-content: center;
 }
+

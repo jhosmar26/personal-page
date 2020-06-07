@@ -63,17 +63,18 @@ body{
 
 .box__job .title{
     font-size: 14px;
-    font-weight: bold;
-    width: 270px;
+    font-weight: 600;
+    width: 288px;
     margin: auto;
     line-height: 3;
     padding-top: 10px;
 }
 .box__job .description{
     font-size: 14px;
-    width: 270px;
+    width: 288px;
     margin: auto;
     line-height: 1.5;
+    color: #939393;
 }
 
 .white-wrapper{
@@ -83,14 +84,16 @@ body{
     height: 558px;
     display: flex;
     flex-direction: column;
+    padding-bottom: 18px;
 }
 
 .box__left--title{
-    width: 270px;
+    width: 288px;
     margin: auto;
     font-size: 16px;
     font-weight: bold;
-    line-height: 4;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 
@@ -99,11 +102,12 @@ body{
     border-radius: 20px;
     width: 330px;
     margin: auto;
+    margin-bottom: 13px;
 }
 .box__job--down{
     display: flex;
     justify-content: space-between;
-    width: 270px;
+    width: 288px;
     margin: auto;
     margin-top: 10px;
     padding-bottom: 15px;

@@ -162,7 +162,6 @@ body{
 .aditional-info__box{
     background-color: #F4F5F8;
     display: flex;
-    justify-content: space-around;
     align-items: center;
     width: 256px;
     height: 82px;
@@ -170,15 +169,17 @@ body{
     margin-bottom: 10px;
 }
 .aditional-info__box p{
-    width: 170px;
+    width: 150px;
     font-size: 14px;
     display: flex;
     align-items: center;
+    justify-content: flex-start;
     line-height: 1.5;
     margin-top: 18px;
 }
 .aditional-info__box .img{
     width: 60px;
+    margin: 0 10px;
     display: flex;
     justify-content: center;
 }

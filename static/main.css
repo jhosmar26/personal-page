@@ -111,6 +111,11 @@ body{
 .box__job--down p{
     font-size: 11px;
 }
+
+.box__job:nth-child(3){
+    order: 2;
+}
+
 .box__middle{
     width: 350px;
     height: 558px;

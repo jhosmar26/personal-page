@@ -5,6 +5,7 @@ I puted here profesional information about job and hobbies
 ### Technologies:
 - HTML
 - CSS
+    - Advanced selectors
 - Git
     - Branches
 

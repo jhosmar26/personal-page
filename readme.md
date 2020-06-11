@@ -11,9 +11,9 @@ I puted here profesional information about job and hobbies
 
 ### Tools:
 - Visual Studio Code
+- Semantic HTML (A11y)
 
 ### WIP:
 - BEM
-- Semantic HTML (A11y)
 
 You can check my progress here: https://www.jhose.fun/
